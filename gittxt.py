@@ -12,3 +12,10 @@ ls
 vi --Write in git editor
 prees "i" to start write
 :wq! to save and exit
+
+
+git branch <branch_name>
+git checkout <branch_name>
+git merge <branch_name>
+git branch -d <branch_name?
+git push origin 

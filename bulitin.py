@@ -1,4 +1,4 @@
-def demo_func(greeting,name='Jay'):
+ddef demo_func(greeting,name='Jay'):
 	return f"{greeting} - {name}"
 
 print(demo_func('hello'))
